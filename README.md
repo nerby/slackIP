@@ -1,4 +1,4 @@
-# slackIP
+# slackIP - https://github.com/nerby/slackIP
 Find global IP address of a host and post it to a slack channel
 
 The problem your home is connected to the Internet behind a NAT,
