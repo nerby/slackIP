@@ -9,3 +9,5 @@ Find the IP address using this cool opendns feature:
 dig +short myip.opendns.com @resolver1.opendns.com
 
 Write to the slack channel using Incoming WebHooks.
+
+thud$ ./slackip.py -h hooks.slack.com -u /services/???
