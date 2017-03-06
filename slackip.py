@@ -53,7 +53,7 @@ curl -X POST --data-urlencode 'payload={"channel": "#pandabot", "username": "web
         print(response.reason, ret, file=sys.stderr)
         return False
 
-    print("Sucessfully wrote to slack channel")
+    print("Successfully wrote to slack channel")
 
     return True
 
