@@ -7,7 +7,7 @@
 ## https://github.com/nerby/slackIP
 ##
 ## Atanu Ghosh
-## <atanu@acm.org>
+## <atanu@.......>
 ## 2017-03-05
 """
 from __future__ import print_function
