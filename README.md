@@ -10,4 +10,9 @@ dig +short myip.opendns.com @resolver1.opendns.com
 
 Write to the slack channel using Incoming WebHooks.
 
+Unconditionally write IP address to slack channel
 thud$ ./slackip.py -h hooks.slack.com -u /services/???
+
+Save previous runs in a file if the value in the file doesn't change
+don't write to slack channel
+thud$ ./slackip.py -h hooks.slack.com -u /services/??? -s /tmp/myip
